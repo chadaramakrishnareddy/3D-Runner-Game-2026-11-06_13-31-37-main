@@ -1,0 +1,9 @@
+{
+  "gameTitle": "Desert Runner",
+  "subtitle": "RUN • COLLECT • AVOID • SURVIVE",
+  "forwardSpeed": 15.0,
+  "laneDistance": 3.0,
+  "pointsPerMeter": 1,
+  "pointsPerCoin": 10,
+  "pointsPerGem": 50
+}
